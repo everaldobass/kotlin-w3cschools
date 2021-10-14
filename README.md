@@ -1,4 +1,4 @@
-# kotlin-w3cschools
+# kotlin-w3cSchools
 - Sintaxe Kotlin
 - A funpalavra-chave é usada para declarar uma função. Uma função é um bloco de código projetado para realizar uma tarefa específica. No exemplo acima, ele declara a main()função.
 
